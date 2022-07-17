@@ -5,6 +5,6 @@ int main()
 {
     int a,b;
     a=10;b=4;
-    cout<<a-b;
+    cout<<"the difference: "<<a-b;
     return 0;
 }
